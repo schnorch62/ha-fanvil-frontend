@@ -1,6 +1,6 @@
 name: Fanvil Legacy Frontend (staging)
 slug: fanvil_legacy_frontend
-version: 0.1.5
+version: 0.1.6
 description: Isolated staging proxy for a legacy Home Assistant frontend
 url: https://github.com/schnorch62/ha-fanvil-frontend
 arch:
